@@ -26,6 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: offsec11
 github_username:  offsec1
+linkedin_username: patrick0x42
+author: offsec1
+
+# Custom fields go here
+copyright: offsec1
+logo: /assets/images/logo.png
 
 # Build settings
 # removed minima so we can overwrite it using a regular theme
