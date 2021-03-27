@@ -28,7 +28,8 @@ twitter_username: offsec11
 github_username:  offsec1
 
 # Build settings
-theme: minima
+# removed minima so we can overwrite it using a regular theme or use github to change the theme
+# theme: minima
 plugins:
   - jekyll-feed
 
